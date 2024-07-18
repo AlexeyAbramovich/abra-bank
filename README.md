@@ -1,5 +1,5 @@
 # Functionality
-- Simulation banking application, allows you to deposit/transfer/withdraw money from the card
+- Simulation of banking application, allows you to deposit/transfer/withdraw money from the card
 - User authorization via a token 
 - Developed sections with recent transactions/statistics
 - Displaying notifications for transactions and app errors
