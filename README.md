@@ -6,8 +6,8 @@
 - Implementation of routing and private routes
 - Developed custom libraris for working with DOM elements and handling API requests
 
-*This app was developed during the course on htmllessons.io. 
-Backend part was provided by the author of this course and developed using Nest.js
+/* This app was developed during the course on htmllessons.io. 
+Backend part was provided by the author of this course and developed using Nest.js */
 
 # Used technologies
 - JavaScript
