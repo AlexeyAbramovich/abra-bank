@@ -13,6 +13,7 @@ Backend part was provided by the author of this course and developed using Nest.
 - JavaScript
 - Webpack
 - SASS
+- HTML
 
 # Preview
 ![image](https://github.com/user-attachments/assets/e63c70c6-aa9f-437e-944d-5dd44c166863)
